@@ -7,9 +7,9 @@
     "iconName": ""
   }],
   "users": [{
-	"user":"user1",
-	"pass":"pass1",
-	"apps": [{"appId": "myAppId"}]
+	"user":"planiel",
+	"pass":"asj3w5ba",
+	"apps": [{"appId1": "myAppId"}]
 	}
   "iconsFolder": "icons"
 }
