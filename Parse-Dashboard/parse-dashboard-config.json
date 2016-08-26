@@ -2,7 +2,7 @@
   "apps": [{
     "serverURL": "https://cgiparsetest.herokuapp.com/parse",
     "appId": "myAppId",
-    "masterKey": "myMasterKey",
+    "masterKey": "abcdefg",
     "appName": "Parse Server Example",
     "iconName": ""
   }],
