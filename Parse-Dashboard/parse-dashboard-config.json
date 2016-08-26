@@ -6,5 +6,10 @@
     "appName": "Parse Server Example",
     "iconName": ""
   }],
+  "users": [{
+	"user":"user1",
+	"pass":"pass1",
+	"apps": [{"appId": "myAppId"}]
+	}
   "iconsFolder": "icons"
 }
