@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
+    "serverURL": "https://cgiparsetest.herokuapp.com",
+    "appId": "myAppId",
+    "masterKey": "myMasterKey",
+    "appName": "Parse Server Example",
     "iconName": ""
   }],
   "iconsFolder": "icons"
