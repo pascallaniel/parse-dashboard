@@ -9,7 +9,7 @@
   "users": [{
 	"user":"planiel",
 	"pass":"asj3w5ba",
-	"apps": [{"appId1": "myAppId"}]
+	"apps": [{"appId": "myAppId"}]
 	}],
   "iconsFolder": "icons"
 }
